@@ -1,0 +1,623 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "515b3e2b-262e-4a7f-92c2-6b5cc916246f")
+	(paper "A4")
+	(title_block
+		(title "CLOCK")
+		(date "2025-10-30")
+		(rev "1.0")
+		(company "Gabriele Odino")
+	)
+	(lib_symbols)
+	(text "CLOCK"
+		(exclude_from_sim no)
+		(at 150.368 18.796 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "cd036f16-4d31-4466-95d9-2c574dc1a45d")
+	)
+	(global_label "LED20_DIN"
+		(shape input)
+		(at 33.02 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1fa54a05-7712-4bdd-9623-5970e5372109")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 19.9958 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 33.02 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29d31d73-e173-4ec2-96ec-c967ca7e6a8e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5272 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXT_5V"
+		(shape input)
+		(at 173.99 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3abc0a8f-8a88-4b49-b417-e27620211fb2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.413 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LIGHT_DECT"
+		(shape input)
+		(at 33.02 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4266407e-e489-44c3-bc00-f154797cbf32")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 19.2096 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V_LEDS"
+		(shape input)
+		(at 173.99 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5fae7b2d-68e7-4ad7-a888-7b87d921d710")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 161.5101 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V_LEDS"
+		(shape input)
+		(at 33.02 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8b309922-74ca-4e39-8482-cbe7d4fd1eb8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.5401 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED20_DIN"
+		(shape input)
+		(at 173.99 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa06345d-e9e4-48b5-8ce3-1f85130af721")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.9658 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED20_DIN"
+		(shape input)
+		(at 33.02 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c23fd0f7-fbbf-4bd7-9a62-b8ce90515eeb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 19.9958 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED0_DIN"
+		(shape input)
+		(at 33.02 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c5d86ea0-1cb8-4361-8881-227313b87a59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.2053 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LIGHT_DECT"
+		(shape input)
+		(at 33.02 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dbcf03f7-1f0d-4f20-adef-64b756a14c7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 19.2096 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED0_DIN"
+		(shape input)
+		(at 173.99 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dd69dc2f-dd7a-4b5c-9591-766cab9ac532")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.1753 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXT_5V"
+		(shape input)
+		(at 33.02 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e322ac58-659b-410a-8058-63a3b1a1cc0c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.443 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 33.02 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fd4650aa-aeea-4a90-b8bb-7e44580d4807")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5272 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 121.92)
+		(size 87.63 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "699b33dd-e027-41ff-865d-a2def2231e08")
+		(property "Sheetname" "LED CLOCK PART 2"
+			(at 51.308 118.11 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.4064)
+					(bold yes)
+					(color 255 0 2 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 33.02 179.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LIGHT_DECT" input
+			(at 33.02 125.73 180)
+			(uuid "e577f1a6-7d58-4a51-ab19-1d295499fadc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+5V_LEDS" input
+			(at 33.02 128.27 180)
+			(uuid "a09e7d82-d806-4ee9-8a38-3500dd38e978")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED20_DIN" input
+			(at 33.02 130.81 180)
+			(uuid "176dd6c4-75e4-4ce3-9372-c6073b77124f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 33.02 133.35 180)
+			(uuid "30fc9c5d-4632-4cdc-a8c9-01933336cae1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "clock"
+				(path "/515b3e2b-262e-4a7f-92c2-6b5cc916246f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 119.38)
+		(size 67.31 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b95fc52-9a63-4d54-9e94-d6f631c0588b")
+		(property "Sheetname" "DATASHEETS"
+			(at 197.358 116.332 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(color 255 0 5 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "datasheets.kicad_sch"
+			(at 179.07 117.348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "clock"
+				(path "/515b3e2b-262e-4a7f-92c2-6b5cc916246f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 48.26)
+		(size 87.63 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "900efef8-ea9d-4ec0-9940-9d8cf51f90fc")
+		(property "Sheetname" "ESP32 PART"
+			(at 58.42 33.782 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.4115)
+					(bold yes)
+					(color 255 2 9 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32 PART.kicad_sch"
+			(at 33.02 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LIGHT_DECT" output
+			(at 33.02 55.88 180)
+			(uuid "e06937d6-b520-4846-bde2-52849c363b64")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED0_DIN" output
+			(at 33.02 58.42 180)
+			(uuid "a4d27378-e153-44c7-9a80-7810d429c6ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 33.02 60.96 180)
+			(uuid "ee5bf2c2-f00e-4abc-aaa9-2018900b18aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "EXT_5V" input
+			(at 33.02 63.5 180)
+			(uuid "e6483059-6fdb-4f83-b4f7-9fcb95261658")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED20_DIN" output
+			(at 33.02 66.04 180)
+			(uuid "2a755933-347f-42df-9fdd-6c7e3d906c58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "clock"
+				(path "/515b3e2b-262e-4a7f-92c2-6b5cc916246f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 48.26)
+		(size 87.63 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cd02ae20-a8fa-4a68-8aa8-920e6e2d4c6f")
+		(property "Sheetname" "LED CLOCK PART"
+			(at 192.278 37.592 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(thickness 0.4115)
+					(bold yes)
+					(color 255 15 5 1)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED PART.kicad_sch"
+			(at 173.99 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "EXT_5V" input
+			(at 173.99 52.07 180)
+			(uuid "74a65ae0-b104-4383-9561-5c1cdf7f7634")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED0_DIN" input
+			(at 173.99 54.61 180)
+			(uuid "960f9a81-8f4e-4c15-a1da-2f7e7ac17c33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED20_DIN" output
+			(at 173.99 57.15 180)
+			(uuid "52b907ab-039a-48d5-87ce-7d6d69ac106f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+5V_LEDS" input
+			(at 173.99 59.69 180)
+			(uuid "2e34bcb9-ffb3-4c5f-adba-0af72b6aec03")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "clock"
+				(path "/515b3e2b-262e-4a7f-92c2-6b5cc916246f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,168 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b15bce86-363a-428b-b202-2678db7702f4")
+	(paper "A4")
+	(lib_symbols)
+	(text "Esp32 module datasheet:  https://documentation.espressif.com/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf"
+		(exclude_from_sim no)
+		(at 72.644 43.942 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "0838fa9b-52a5-4eba-8818-76cf1d368e16")
+	)
+	(text "Photoresistor datasheet: https://www.tme.eu/Document/f2e3ad76a925811312d226c31da4cd7e/LDR07.pdf"
+		(exclude_from_sim no)
+		(at 65.024 95.504 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "08b4d3ce-edf7-402b-aa60-a8eaa15f2fbb")
+	)
+	(text "ESP32 PART"
+		(exclude_from_sim no)
+		(at 33.274 38.354 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+				(color 255 0 10 1)
+			)
+		)
+		(uuid "12dea8b0-4ffe-403b-b9e7-7ac9fe6f650b")
+	)
+	(text "LED CLOCK PART"
+		(exclude_from_sim no)
+		(at 40.132 74.676 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 2 1)
+			)
+		)
+		(uuid "31f782bc-9cb0-45d5-8fe1-f18e7ed9a8f2")
+	)
+	(text "USB-UART module datasheet: https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon%20Labs/datasheet/"
+		(exclude_from_sim no)
+		(at 69.342 50.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "3eb2ab16-b77d-423b-b0da-893a6eaba03a")
+	)
+	(text "Real-time clock module datasheet: https://www.snapeda.com/parts/MAX31343ETAY+/Analog%20Devices/datasheet/\n"
+		(exclude_from_sim no)
+		(at 70.104 52.832 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "4cd7be45-e1f8-4f62-90fa-786a1f1dacab")
+	)
+	(text "LED CLOCK PART 2"
+		(exclude_from_sim no)
+		(at 43.434 90.932 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 10 1)
+			)
+		)
+		(uuid "9541adef-20f4-435c-afe3-5758c7c7f94b")
+	)
+	(text "5V-3,3V datasheet: http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+		(exclude_from_sim no)
+		(at 49.276 57.658 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a4021bfb-0420-4ee3-8743-9d59d74178fe")
+	)
+	(text "Level translator datasheet: https://www.snapeda.com/parts/SN74LV1T34DBVR/Texas%20Instruments/datasheet/"
+		(exclude_from_sim no)
+		(at 67.818 55.118 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "b0048b62-a0e5-4669-847b-440397d6c271")
+	)
+	(text "Micro usb datasheet: https://www.snapeda.com/parts/1050170001/Molex/datasheet/"
+		(exclude_from_sim no)
+		(at 55.118 60.198 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "b29c9f95-ad04-441d-91f3-5e292574ed7f")
+	)
+	(text "Esp32 module reference schematic: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf"
+		(exclude_from_sim no)
+		(at 63.246 47.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "cae6d911-c0be-40d0-81c1-239b7296302c")
+	)
+	(text "DATASHEETS"
+		(exclude_from_sim no)
+		(at 141.732 20.828 0)
+		(effects
+			(font
+				(size 6.35 6.35)
+				(thickness 1.27)
+				(bold yes)
+				(color 255 15 0 1)
+			)
+		)
+		(uuid "da312798-2bfd-44c2-bd7b-3d2c37769e54")
+	)
+	(text "LED datasheet: https://www.snapeda.com/parts/SK6812MINI-012/DONGGUANG%20OPSCO%20OPTOELECTRONICS%20CO.,%20LTD/datasheet/"
+		(exclude_from_sim no)
+		(at 81.026 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "dc44f828-567c-4822-b817-7a4d2f20c2c5")
+	)
+)
