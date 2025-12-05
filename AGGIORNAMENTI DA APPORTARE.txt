@@ -1,0 +1,1 @@
+Controllare tutte le alimentazioni dei led, controlla se ogni led deve essere collegato alla resistenza.

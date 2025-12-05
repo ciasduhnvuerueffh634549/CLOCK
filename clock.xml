@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Utente\Desktop\Kicad\progetti\clock\clock.kicad_sch</source>
+    <date>2025-11-02T16:51:56+0100</date>
+    <tool>Eeschema 9.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>CLOCK</title>
+        <company>Gabriele Odino</company>
+        <rev>1.0</rev>
+        <date>2025-10-30</date>
+        <source>clock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>ECEA1AKS220B</value>
+      <footprint>capacitor 22uF:CAPPRD500W45D500H500</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="DESCRIPTION">KS-A</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">5</field>
+        <field name="MP">ECE-A1AKS220B</field>
+        <field name="D_nom">5</field>
+        <field name="e_nom">5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 22UF 20% 10V RADIAL</field>
+        <field name="Footprint">capacitor 22uF:CAPPRD500W45D500H500</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECEA1AKS220B" part="ECEA1AKS220B" description="KS-A"/>
+      <property name="MF" value="Panasonic"/>
+      <property name="b_max" value="0.5"/>
+      <property name="DESCRIPTION" value="KS-A"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="b_nom" value="0.45"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=snap"/>
+      <property name="PARTREV" value="28-FEB-20"/>
+      <property name="A_max" value="5"/>
+      <property name="MP" value="ECE-A1AKS220B"/>
+      <property name="D_nom" value="5"/>
+      <property name="e_nom" value="5"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Description_1" value="CAP ALUM 22UF 20% 10V RADIAL"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47512449-a0af-4439-8162-3a219a85523b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>EEAGA1E100</value>
+      <footprint>capacitor 22uF:CAPPRD500W45D500H500</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="DESCRIPTION">GA-A</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">7</field>
+        <field name="MP">EEAGA1E100</field>
+        <field name="D_nom">4</field>
+        <field name="e_nom">1.5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 10UF 20% 25V RADIAL</field>
+        <field name="Footprint">capacitor 22uF:CAPPRD500W45D500H500</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="EEAGA1E100" part="EEAGA1E100" description="GA-A"/>
+      <property name="MF" value="Panasonic"/>
+      <property name="b_max" value="0.5"/>
+      <property name="DESCRIPTION" value="GA-A"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="b_nom" value="0.45"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=snap"/>
+      <property name="PARTREV" value="28-FEB-20"/>
+      <property name="A_max" value="7"/>
+      <property name="MP" value="EEAGA1E100"/>
+      <property name="D_nom" value="4"/>
+      <property name="e_nom" value="1.5"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Description_1" value="CAP ALUM 10UF 20% 25V RADIAL"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b2a89be-bbfe-4732-bc8d-c7c5acbff862</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>ECWFE2W104P5</value>
+      <footprint>capacitor 0.1uF:CAPRR1500W60L1750T500H1050</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+        <field name="Footprint">capacitor 0.1uF:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECWFE2W104P5" part="ECWFE2W104P5" description=""/>
+      <property name="MF" value="Panasonic"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="10.5 mm"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="31-May-19"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap"/>
+      <property name="MP" value="ECWFE2W104P5"/>
+      <property name="Description_1" value="CAP FILM 0.1UF 5% 450VDC RADIAL"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Panasonic"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10f63e08-1ad5-4d36-a909-c5b87d8ba907</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>ECEA1AKS220B</value>
+      <footprint>capacitor 22uF:CAPPRD500W45D500H500</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="DESCRIPTION">KS-A</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">5</field>
+        <field name="MP">ECE-A1AKS220B</field>
+        <field name="D_nom">5</field>
+        <field name="e_nom">5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 22UF 20% 10V RADIAL</field>
+        <field name="Footprint">capacitor 22uF:CAPPRD500W45D500H500</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECEA1AKS220B" part="ECEA1AKS220B" description="KS-A"/>
+      <property name="MF" value="Panasonic"/>
+      <property name="b_max" value="0.5"/>
+      <property name="DESCRIPTION" value="KS-A"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="b_nom" value="0.45"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=snap"/>
+      <property name="PARTREV" value="28-FEB-20"/>
+      <property name="A_max" value="5"/>
+      <property name="MP" value="ECE-A1AKS220B"/>
+      <property name="D_nom" value="5"/>
+      <property name="e_nom" value="5"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Description_1" value="CAP ALUM 22UF 20% 10V RADIAL"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d446224-20fb-4b37-b8e6-115981e3e6b6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>ECWFE2W104P5</value>
+      <footprint>capacitor 0.1uF:CAPRR1500W60L1750T500H1050</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+        <field name="Footprint">capacitor 0.1uF:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECWFE2W104P5" part="ECWFE2W104P5" description=""/>
+      <property name="MF" value="Panasonic"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="10.5 mm"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="31-May-19"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap"/>
+      <property name="MP" value="ECWFE2W104P5"/>
+      <property name="Description_1" value="CAP FILM 0.1UF 5% 450VDC RADIAL"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Panasonic"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19e4019f-0d1f-4086-9baa-45ba29cafc33</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>ECWFE2W104P5</value>
+      <footprint>capacitor 0.1uF:CAPRR1500W60L1750T500H1050</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+        <field name="Footprint">capacitor 0.1uF:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECWFE2W104P5" part="ECWFE2W104P5" description=""/>
+      <property name="MF" value="Panasonic"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="10.5 mm"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="31-May-19"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap"/>
+      <property name="MP" value="ECWFE2W104P5"/>
+      <property name="Description_1" value="CAP FILM 0.1UF 5% 450VDC RADIAL"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Panasonic"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d23fb064-c1a3-49ec-93d9-c9d2a329206d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>EEAGA1E100</value>
+      <footprint>capacitor 22uF:CAPPRD500W45D500H500</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="DESCRIPTION">GA-A</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">7</field>
+        <field name="MP">EEAGA1E100</field>
+        <field name="D_nom">4</field>
+        <field name="e_nom">1.5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 10UF 20% 25V RADIAL</field>
+        <field name="Footprint">capacitor 22uF:CAPPRD500W45D500H500</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="EEAGA1E100" part="EEAGA1E100" description="GA-A"/>
+      <property name="MF" value="Panasonic"/>
+      <property name="b_max" value="0.5"/>
+      <property name="DESCRIPTION" value="GA-A"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="b_nom" value="0.45"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=snap"/>
+      <property name="PARTREV" value="28-FEB-20"/>
+      <property name="A_max" value="7"/>
+      <property name="MP" value="EEAGA1E100"/>
+      <property name="D_nom" value="4"/>
+      <property name="e_nom" value="1.5"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Description_1" value="CAP ALUM 10UF 20% 25V RADIAL"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd2579ca-1a3e-46b6-90d8-ad452ae0b215</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>ECWFE2W104P5</value>
+      <footprint>capacitor 0.1uF:CAPRR1500W60L1750T500H1050</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+        <field name="Footprint">capacitor 0.1uF:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECWFE2W104P5" part="ECWFE2W104P5" description=""/>
+      <property name="MF" value="Panasonic"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="10.5 mm"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="31-May-19"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap"/>
+      <property name="MP" value="ECWFE2W104P5"/>
+      <property name="Description_1" value="CAP FILM 0.1UF 5% 450VDC RADIAL"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Panasonic"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2be87101-3c74-4925-9548-74c1ee878427</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>ECWFE2W104P5</value>
+      <footprint>capacitor 0.1uF:CAPRR1500W60L1750T500H1050</footprint>
+      <fields>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+        <field name="Footprint">capacitor 0.1uF:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ECWFE2W104P5" part="ECWFE2W104P5" description=""/>
+      <property name="MF" value="Panasonic"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="10.5 mm"/>
+      <property name="Package" value="RADIAL-2 Panasonic"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="31-May-19"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap"/>
+      <property name="MP" value="ECWFE2W104P5"/>
+      <property name="Description_1" value="CAP FILM 0.1UF 5% 450VDC RADIAL"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Panasonic"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>731c50e3-7dcd-424f-be7c-504e85afc61f</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>IR26-21C_L110_TR8</value>
+      <footprint>LED_SMD:LED_1206_3216Metric</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</datasheet>
+      <description>940nm, 20 deg, Infrared LED, 1206</description>
+      <fields>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet">http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</field>
+        <field name="Description">940nm, 20 deg, Infrared LED, 1206</field>
+      </fields>
+      <libsource lib="LED" part="IR26-21C_L110_TR8" description="940nm, 20 deg, Infrared LED, 1206"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="IR LED"/>
+      <property name="ki_fp_filters" value="LED*1206*3216Metric*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43563226-8508-483b-a82a-88b752bf2be4</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>LESD5D5.0CT1G diodo:TVS_LESD5D5.0CT1G</footprint>
+      <fields>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">O</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="Description_1">Transient Voltage Suppressors for ESD Protection</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="Footprint">LESD5D5.0CT1G diodo:TVS_LESD5D5.0CT1G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description_1" value="Transient Voltage Suppressors for ESD Protection"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5a9503-8666-4514-9929-7d9420781e46</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>BAT760-7</value>
+      <footprint>BAT760-7 diodo:SOD2513X120N</footprint>
+      <fields>
+        <field name="DigiKey_Part_Number">BAT760DICT-ND</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=snap</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.20mm</field>
+        <field name="Package">SOD-323 Diodes Inc.</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">9-2</field>
+        <field name="MF">Diodes Inc.</field>
+        <field name="MP">BAT760-7</field>
+        <field name="Description_1">Diode Schottky 30V 1A 2Pin SOD323 | Diodes Inc BAT760-7</field>
+        <field name="MANUFACTURER">DIODES</field>
+        <field name="Footprint">BAT760-7 diodo:SOD2513X120N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="BAT760-7" part="BAT760-7" description=""/>
+      <property name="DigiKey_Part_Number" value="BAT760DICT-ND"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=snap"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.20mm"/>
+      <property name="Package" value="SOD-323 Diodes Inc."/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="9-2"/>
+      <property name="MF" value="Diodes Inc."/>
+      <property name="MP" value="BAT760-7"/>
+      <property name="Description_1" value="Diode Schottky 30V 1A 2Pin SOD323 | Diodes Inc BAT760-7"/>
+      <property name="MANUFACTURER" value="DIODES"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a16111dc-d8ea-4572-8523-e4241d6842c4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LESD5D5.0CT1G</value>
+      <footprint>LESD5D5.0CT1G diodo:TVS_LESD5D5.0CT1G</footprint>
+      <fields>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">O</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="Description_1">Transient Voltage Suppressors for ESD Protection</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">LRC</field>
+        <field name="Footprint">LESD5D5.0CT1G diodo:TVS_LESD5D5.0CT1G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G" description=""/>
+      <property name="MF" value="Leshan Radio Co."/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.7 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="O"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap"/>
+      <property name="MP" value="LESD5D5.0CT1G"/>
+      <property name="Description_1" value="Transient Voltage Suppressors for ESD Protection"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="LRC"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d2e0fa0-a1fe-4bbf-b107-766e8165f979</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>1050170001</value>
+      <footprint>MOLEX MOLEX 10501700001 (microusb):MOLEX_1050170001</footprint>
+      <fields>
+        <field name="DigiKey_Part_Number">WM1399CT-ND</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=snap</field>
+        <field name="OPTION">MOLEX_CONFIG</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">F</field>
+        <field name="MF">Molex</field>
+        <field name="MP">1050170001</field>
+        <field name="Description_1">USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.85mm</field>
+        <field name="Footprint">MOLEX MOLEX 10501700001 (microusb):MOLEX_1050170001</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="1050170001" part="1050170001" description=""/>
+      <property name="DigiKey_Part_Number" value="WM1399CT-ND"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=snap"/>
+      <property name="OPTION" value="MOLEX_CONFIG"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="F"/>
+      <property name="MF" value="Molex"/>
+      <property name="MP" value="1050170001"/>
+      <property name="Description_1" value="USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.85mm"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e8c4fc3-d726-48c1-ad44-305c9e246eb3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>SS8050-G</value>
+      <footprint>Transistor NPN SS8050-G:TRANS_SS8050-G</footprint>
+      <fields>
+        <field name="MF">Comchip Technology</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.05 mm</field>
+        <field name="Package">TO-236 Comchip</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=snap</field>
+        <field name="MP">SS8050-G</field>
+        <field name="Description_1">Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Comchip</field>
+        <field name="Footprint">Transistor NPN SS8050-G:TRANS_SS8050-G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8050-G" part="SS8050-G" description=""/>
+      <property name="MF" value="Comchip Technology"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.05 mm"/>
+      <property name="Package" value="TO-236 Comchip"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=snap"/>
+      <property name="MP" value="SS8050-G"/>
+      <property name="Description_1" value="Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Comchip"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd4187c3-1420-4492-b05f-2a534691bfef</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>SS8050-G</value>
+      <footprint>Transistor NPN SS8050-G:TRANS_SS8050-G</footprint>
+      <fields>
+        <field name="MF">Comchip Technology</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.05 mm</field>
+        <field name="Package">TO-236 Comchip</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=snap</field>
+        <field name="MP">SS8050-G</field>
+        <field name="Description_1">Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Comchip</field>
+        <field name="Footprint">Transistor NPN SS8050-G:TRANS_SS8050-G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8050-G" part="SS8050-G" description=""/>
+      <property name="MF" value="Comchip Technology"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.05 mm"/>
+      <property name="Package" value="TO-236 Comchip"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=snap"/>
+      <property name="MP" value="SS8050-G"/>
+      <property name="Description_1" value="Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Comchip"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41d3f4b5-a4c4-45cb-a22b-d01e26ad19cb</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df33ec3c-181a-4c28-89e2-99fa01f77e2d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8ff1c79-f392-44fe-948c-8ba0c534285c</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7fb3ec5-ef19-4055-88c5-28e144f8847a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebd51630-4f90-4c19-a816-4797df66110a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>47.5K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85bbf1af-304f-4ffb-9f9a-16b74c20af56</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>22.1K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88ff289b-5543-4fd3-a1d4-f0bc84c806a0</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22e6dd04-2ff3-4cfc-8c07-2878cac4b565</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>269b56dc-48be-431b-8a95-de2209f16ec1</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>o</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1cafc50-a4f3-44a3-9a95-cf3311b2a74b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0</value>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa79809f-768e-4ebf-ba42-8b67313c8ca9</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2ce53af-02e7-4ef9-a179-931cb91f408b</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64454993-9356-47e9-85f1-0beeb81a5d52</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-WROOM-32</value>
+      <footprint>esp32-wroom32:MODULE_ESP32-WROOM-32</footprint>
+      <fields>
+        <field name="MF">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.2 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">2.9</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-WROOM-32</field>
+        <field name="Description_1">Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+        <field name="Footprint">esp32-wroom32:MODULE_ESP32-WROOM-32</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ESP32-WROOM-32" part="ESP32-WROOM-32" description=""/>
+      <property name="MF" value="Espressif Systems"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.2 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="2.9"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-WROOM-32"/>
+      <property name="Description_1" value="Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Espressif Systems"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7c7b57d-5a37-4c24-93ea-c67e692ea63c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eee394ad-8716-4360-9cff-7c688115f4c4</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CP2102N-A02-GQFN28</value>
+      <footprint>CP2102N-A02-GQFN28 (USB-Seriale):QFN50P500X500X80-29N</footprint>
+      <fields>
+        <field name="MF">Silicon Labs</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="Package">WFQFN-28 Silicon Labs</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">1.5</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap</field>
+        <field name="MP">CP2102N-A02-GQFN28</field>
+        <field name="Description_1">USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Silicon Labs</field>
+        <field name="Footprint">CP2102N-A02-GQFN28 (USB-Seriale):QFN50P500X500X80-29N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="CP2102N-A02-GQFN28" part="CP2102N-A02-GQFN28" description=""/>
+      <property name="MF" value="Silicon Labs"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.8 mm"/>
+      <property name="Package" value="WFQFN-28 Silicon Labs"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="1.5"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap"/>
+      <property name="MP" value="CP2102N-A02-GQFN28"/>
+      <property name="Description_1" value="USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Silicon Labs"/>
+      <property name="Sheetname" value="Principale"/>
+      <property name="Sheetfile" value="clock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21d22c1a-c536-4f4e-9a66-af27db2d0f0a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1050170001" part="1050170001">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1050170001</field>
+        <field name="Footprint">1050170001:MOLEX_1050170001</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="DigiKey_Part_Number">WM1399CT-ND</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=snap</field>
+        <field name="OPTION">MOLEX_CONFIG</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/1050170001/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">F</field>
+        <field name="MF">Molex</field>
+        <field name="MP">1050170001</field>
+        <field name="Description_1">USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.85mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="SH1" name="SHIELD1" type="passive"/>
+        <pin num="SH2" name="SHIELD2" type="passive"/>
+        <pin num="SH3" name="SHIELD3" type="passive"/>
+        <pin num="SH4" name="SHIELD4" type="passive"/>
+        <pin num="SH5" name="SHIELD5" type="passive"/>
+        <pin num="SH6" name="SHIELD6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="BAT760-7" part="BAT760-7">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT760-7</field>
+        <field name="Footprint">BAT760-7:SOD2513X120N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="DigiKey_Part_Number">BAT760DICT-ND</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=snap</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.20mm</field>
+        <field name="Package">SOD-323 Diodes Inc.</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BAT760-7/Diodes+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">9-2</field>
+        <field name="MF">Diodes Inc.</field>
+        <field name="MP">BAT760-7</field>
+        <field name="Description_1">Diode Schottky 30V 1A 2Pin SOD323 | Diodes Inc BAT760-7</field>
+        <field name="MANUFACTURER">DIODES</field>
+      </fields>
+      <pins>
+        <pin num="A" name="" type="passive"/>
+        <pin num="C" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CP2102N-A02-GQFN28" part="CP2102N-A02-GQFN28">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102N-A02-GQFN28</field>
+        <field name="Footprint">CP2102N-A02-GQFN28:QFN50P500X500X80-29N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Silicon Labs</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.8 mm</field>
+        <field name="Package">WFQFN-28 Silicon Labs</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">1.5</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/CP2102N-A02-GQFN28/Silicon+Labs/view-part/?ref=snap</field>
+        <field name="MP">CP2102N-A02-GQFN28</field>
+        <field name="Description_1">USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Silicon Labs</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DCD" type="input"/>
+        <pin num="2" name="RI/CLK" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="D-" type="bidirectional"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="VREGIN" type="input"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="~{RST}" type="input"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="~{SUSPEND}" type="output"/>
+        <pin num="12" name="SUSPEND" type="output"/>
+        <pin num="13" name="CHREN" type="output"/>
+        <pin num="14" name="CHR1" type="output"/>
+        <pin num="15" name="CHR0" type="output"/>
+        <pin num="16" name="GPIO.3/WAKEUP" type="bidirectional"/>
+        <pin num="17" name="GPIO.2/RS485" type="bidirectional"/>
+        <pin num="18" name="GPIO.1/RXT" type="bidirectional"/>
+        <pin num="19" name="GPIO.0/TXT" type="bidirectional"/>
+        <pin num="20" name="GPIO.6" type="bidirectional"/>
+        <pin num="21" name="GPIO.5" type="bidirectional"/>
+        <pin num="22" name="GPIO.4" type="bidirectional"/>
+        <pin num="23" name="CTS" type="input"/>
+        <pin num="24" name="RTS" type="output"/>
+        <pin num="25" name="RXD" type="input"/>
+        <pin num="26" name="TXD" type="output"/>
+        <pin num="27" name="DSR" type="input"/>
+        <pin num="28" name="DTR" type="output"/>
+        <pin num="29" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECEA1AKS220B" part="ECEA1AKS220B">
+      <description>KS-A</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">ECEA1AKS220B</field>
+        <field name="Footprint">ECEA1AKS220B:CAPPRD500W45D500H500</field>
+        <field name="Datasheet"/>
+        <field name="Description">KS-A</field>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECE-A1AKS220B/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">5</field>
+        <field name="MP">ECE-A1AKS220B</field>
+        <field name="D_nom">5</field>
+        <field name="e_nom">5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 22UF 20% 10V RADIAL</field>
+      </fields>
+      <pins>
+        <pin num="N" name="" type="passive"/>
+        <pin num="P" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ECWFE2W104P5" part="ECWFE2W104P5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">ECWFE2W104P5</field>
+        <field name="Footprint">ECWFE2W104P5:CAPRR1500W60L1750T500H1050</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Panasonic</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">10.5 mm</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">31-May-19</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ECWFE2W104P5/Panasonic/view-part/?ref=snap</field>
+        <field name="MP">ECWFE2W104P5</field>
+        <field name="Description_1">CAP FILM 0.1UF 5% 450VDC RADIAL</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Panasonic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EEAGA1E100" part="EEAGA1E100">
+      <description>GA-A</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">EEAGA1E100</field>
+        <field name="Footprint">EEAGA1E100:CAPPRD150W45D400H700</field>
+        <field name="Datasheet"/>
+        <field name="Description">GA-A</field>
+        <field name="MF">Panasonic</field>
+        <field name="b_max">0.5</field>
+        <field name="Package">RADIAL-2 Panasonic</field>
+        <field name="b_nom">0.45</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/EEAGA1E100/Panasonic/view-part/?ref=snap</field>
+        <field name="PARTREV">28-FEB-20</field>
+        <field name="A_max">7</field>
+        <field name="MP">EEAGA1E100</field>
+        <field name="D_nom">4</field>
+        <field name="e_nom">1.5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description_1">CAP ALUM 10UF 20% 25V RADIAL</field>
+      </fields>
+      <pins>
+        <pin num="N" name="" type="passive"/>
+        <pin num="P" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-WROOM-32" part="ESP32-WROOM-32">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">ESP32-WROOM-32:MODULE_ESP32-WROOM-32</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Espressif Systems</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.2 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">2.9</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-WROOM-32</field>
+        <field name="Description_1">Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Antenna Not Included, U.FL Surface Mount</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0" type="bidirectional"/>
+        <pin num="35" name="TXD0" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39_1" name="GND" type="power_in"/>
+        <pin num="39_2" name="GND" type="power_in"/>
+        <pin num="39_3" name="GND" type="power_in"/>
+        <pin num="39_4" name="GND" type="power_in"/>
+        <pin num="39_5" name="GND" type="power_in"/>
+        <pin num="39_6" name="GND" type="power_in"/>
+        <pin num="39_7" name="GND" type="power_in"/>
+        <pin num="39_8" name="GND" type="power_in"/>
+        <pin num="39_9" name="GND" type="power_in"/>
+        <pin num="39_10" name="GND" type="power_in"/>
+        <pin num="39_11" name="GND" type="power_in"/>
+        <pin num="39_12" name="GND" type="power_in"/>
+        <pin num="39_13" name="GND" type="power_in"/>
+        <pin num="39_14" name="GND" type="power_in"/>
+        <pin num="39_15" name="GND" type="power_in"/>
+        <pin num="39_16" name="GND" type="power_in"/>
+        <pin num="39_17" name="GND" type="power_in"/>
+        <pin num="39_18" name="GND" type="power_in"/>
+        <pin num="39_19" name="GND" type="power_in"/>
+        <pin num="39_20" name="GND" type="power_in"/>
+        <pin num="39_21" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="IR26-21C_L110_TR8">
+      <description>940nm, 20 deg, Infrared LED, 1206</description>
+      <docs>http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</docs>
+      <footprints>
+        <fp>LED*1206*3216Metric*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">IR26-21C_L110_TR8</field>
+        <field name="Footprint">LED_SMD:LED_1206_3216Metric</field>
+        <field name="Datasheet">http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf</field>
+        <field name="Description">940nm, 20 deg, Infrared LED, 1206</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LESD5D5.0CT1G" part="LESD5D5.0CT1G">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LESD5D5.0CT1G</field>
+        <field name="Footprint">LESD5D5.0CT1G:TVS_LESD5D5.0CT1G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Leshan Radio Co.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.7 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">O</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio/view-part/?ref=snap</field>
+        <field name="MP">LESD5D5.0CT1G</field>
+        <field name="Description_1">Transient Voltage Suppressors for ESD Protection</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">LRC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8050-G" part="SS8050-G">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">SS8050-G</field>
+        <field name="Footprint">SS8050-G:TRANS_SS8050-G</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Comchip Technology</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.05 mm</field>
+        <field name="Package">TO-236 Comchip</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SS8050-G/Comchip/view-part/?ref=snap</field>
+        <field name="MP">SS8050-G</field>
+        <field name="Description_1">Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Comchip</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1050170001">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/MOLEX MOLEX 10501700001 (microusb)/1050170001.kicad_sym</uri>
+    </library>
+    <library logical="BAT760-7">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/BAT760-7 diodo/BAT760-7.kicad_sym</uri>
+    </library>
+    <library logical="CP2102N-A02-GQFN28">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/CP2102N-A02-GQFN28 (USB-Seriale)/CP2102N-A02-GQFN28.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ECEA1AKS220B">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/capacitor 22uF/ECEA1AKS220B.kicad_sym</uri>
+    </library>
+    <library logical="ECWFE2W104P5">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/capacitor 0.1uF/ECWFE2W104P5.kicad_sym</uri>
+    </library>
+    <library logical="EEAGA1E100">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/capacitor 10uF/EEAGA1E100.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-WROOM-32">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/esp32-wroom32/ESP32-WROOM-32.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="LESD5D5.0CT1G">
+      <uri>C:/Users/Utente/Desktop/Kicad/librerie importate/LESD5D5.0CT1G diodo/LESD5D5.0CT1G.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="SS8050-G">
+      <uri>C:\Users\Utente\Desktop\Kicad\librerie importate\Transistor NPN SS8050-G\SS8050-G.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3" class="Default">
+      <node ref="C2" pin="P" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="P" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="P" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="VREGIN" pintype="input"/>
+    </net>
+    <net code="2" name="CTS" class="Default">
+      <node ref="U3" pin="23" pinfunction="CTS" pintype="input"/>
+    </net>
+    <net code="3" name="DSR" class="Default">
+      <node ref="U3" pin="27" pinfunction="DSR" pintype="input"/>
+    </net>
+    <net code="4" name="DTR" class="Default">
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="DTR" pintype="output"/>
+    </net>
+    <net code="5" name="EN" class="Default">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="EXT_5V" class="Default">
+      <node ref="C1" pin="P" pintype="passive"/>
+      <node ref="D3" pin="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="7" name="GND" class="Default">
+      <node ref="C1" pin="N" pintype="passive"/>
+      <node ref="C2" pin="N" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="N" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="N" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="D4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="ID" pintype="bidirectional"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="SH1" pinfunction="SHIELD1" pintype="passive"/>
+      <node ref="J1" pin="SH2" pinfunction="SHIELD2" pintype="passive"/>
+      <node ref="J1" pin="SH3" pinfunction="SHIELD3" pintype="passive"/>
+      <node ref="J1" pin="SH4" pinfunction="SHIELD4" pintype="passive"/>
+      <node ref="J1" pin="SH5" pinfunction="SHIELD5" pintype="passive"/>
+      <node ref="J1" pin="SH6" pinfunction="SHIELD6" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_11" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_14" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_17" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_19" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_20" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="39_9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="8" name="IO0" class="Default">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-A)" class="Default">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(Q1-Pad1)" class="Default">
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(Q2-Pad1)" class="Default">
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(U1-EN)" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(U3-VBUS)" class="Default">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(U3-~{RST})" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(U3-~{SUSPEND})" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="~{SUSPEND}" pintype="output"/>
+    </net>
+    <net code="16" name="RDX0" class="Default">
+      <node ref="U1" pin="34" pinfunction="RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="RST" class="Default">
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="RTS" class="Default">
+      <node ref="U3" pin="24" pinfunction="RTS" pintype="output"/>
+    </net>
+    <net code="19" name="RXD" class="Default">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="20" name="RXD0" class="Default">
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="TDX0" class="Default">
+      <node ref="U1" pin="35" pinfunction="TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="TXD" class="Default">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="23" name="TXD0" class="Default">
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="USB_DN" class="Default">
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="USB_DP" class="Default">
+      <node ref="D4" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="VBUS" class="Default">
+      <node ref="D3" pin="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(U1-IO0-Pad25)" class="Default">
+      <node ref="U1" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U1-IO2-Pad24)" class="Default">
+      <node ref="U1" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U1-IO4-Pad26)" class="Default">
+      <node ref="U1" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-IO5-Pad29)" class="Default">
+      <node ref="U1" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U1-IO12-Pad14)" class="Default">
+      <node ref="U1" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U1-IO13-Pad16)" class="Default">
+      <node ref="U1" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U1-IO14-Pad13)" class="Default">
+      <node ref="U1" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U1-IO15-Pad23)" class="Default">
+      <node ref="U1" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U1-IO16-Pad27)" class="Default">
+      <node ref="U1" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U1-IO17-Pad28)" class="Default">
+      <node ref="U1" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U1-IO18-Pad30)" class="Default">
+      <node ref="U1" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U1-IO19-Pad31)" class="Default">
+      <node ref="U1" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U1-IO21-Pad33)" class="Default">
+      <node ref="U1" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U1-IO22-Pad36)" class="Default">
+      <node ref="U1" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U1-IO23-Pad37)" class="Default">
+      <node ref="U1" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U1-IO25-Pad10)" class="Default">
+      <node ref="U1" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U1-IO26-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U1-IO27-Pad12)" class="Default">
+      <node ref="U1" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U1-IO32-Pad8)" class="Default">
+      <node ref="U1" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U1-IO33-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U1-IO34-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="IO34" pintype="input"/>
+    </net>
+    <net code="48" name="unconnected-(U1-IO35-Pad7)" class="Default">
+      <node ref="U1" pin="7" pinfunction="IO35" pintype="input"/>
+    </net>
+    <net code="49" name="unconnected-(U1-NC-Pad32)" class="Default">
+      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U1-SCK/CLK-Pad20)" class="Default">
+      <node ref="U1" pin="20" pinfunction="SCK/CLK" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-SCS/CMD-Pad19)" class="Default">
+      <node ref="U1" pin="19" pinfunction="SCS/CMD" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-SDI/SD1-Pad22)" class="Default">
+      <node ref="U1" pin="22" pinfunction="SDI/SD1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-SDO/SD0-Pad21)" class="Default">
+      <node ref="U1" pin="21" pinfunction="SDO/SD0" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U1-SENSOR_VN-Pad5)" class="Default">
+      <node ref="U1" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="55" name="unconnected-(U1-SENSOR_VP-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="56" name="unconnected-(U1-SHD/SD2-Pad17)" class="Default">
+      <node ref="U1" pin="17" pinfunction="SHD/SD2" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-SWP/SD3-Pad18)" class="Default">
+      <node ref="U1" pin="18" pinfunction="SWP/SD3" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U3-CHR0-Pad15)" class="Default">
+      <node ref="U3" pin="15" pinfunction="CHR0" pintype="output"/>
+    </net>
+    <net code="59" name="unconnected-(U3-CHR1-Pad14)" class="Default">
+      <node ref="U3" pin="14" pinfunction="CHR1" pintype="output"/>
+    </net>
+    <net code="60" name="unconnected-(U3-CHREN-Pad13)" class="Default">
+      <node ref="U3" pin="13" pinfunction="CHREN" pintype="output"/>
+    </net>
+    <net code="61" name="unconnected-(U3-DCD-Pad1)" class="Default">
+      <node ref="U3" pin="1" pinfunction="DCD" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(U3-GPIO.0/TXT-Pad19)" class="Default">
+      <node ref="U3" pin="19" pinfunction="GPIO.0/TXT" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U3-GPIO.1/RXT-Pad18)" class="Default">
+      <node ref="U3" pin="18" pinfunction="GPIO.1/RXT" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U3-GPIO.2/RS485-Pad17)" class="Default">
+      <node ref="U3" pin="17" pinfunction="GPIO.2/RS485" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U3-GPIO.3/WAKEUP-Pad16)" class="Default">
+      <node ref="U3" pin="16" pinfunction="GPIO.3/WAKEUP" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U3-GPIO.4-Pad22)" class="Default">
+      <node ref="U3" pin="22" pinfunction="GPIO.4" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U3-GPIO.5-Pad21)" class="Default">
+      <node ref="U3" pin="21" pinfunction="GPIO.5" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U3-GPIO.6-Pad20)" class="Default">
+      <node ref="U3" pin="20" pinfunction="GPIO.6" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U3-NC-Pad10)" class="Default">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U3-RI/CLK-Pad2)" class="Default">
+      <node ref="U3" pin="2" pinfunction="RI/CLK" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U3-SUSPEND-Pad12)" class="Default">
+      <node ref="U3" pin="12" pinfunction="SUSPEND" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
